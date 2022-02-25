@@ -1,4 +1,4 @@
-# Sorting-Algorithms-In-Python
+# Sorting Algorithms Using Python
 
 This repository contains implementation of some of the common sorting algorithms in Python programming language.
  - Bubble Sort
